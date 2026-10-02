@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "font-inter",
+  "name": "Inter for AERA",
+  "version": "0.1.0",
+  "description": "A clean, highly legible interface typeface.",
+  "type": "theme-extension",
+  "entry": "font",
+  "font_family": "Inter",
+  "min_host_api": 2,
+  "protocol_version": 1,
+  "icon": "font",
+  "payload": "font.ttf",
+  "payload_url": "https://github.com/AERA-Plugins/font-inter/releases/download/v0.1.0/font.ttf",
+  "payload_size": 876576,
+  "payload_sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+  "permissions": []
+}
